@@ -4,6 +4,8 @@
 
 .App-logo {
   height: 40vmin;
+  font-size: 100px;
+  color: #ffc107;
   pointer-events: none;
 }
 
